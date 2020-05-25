@@ -1,0 +1,529 @@
+Data as of,State,MMWR Week,Week ending Date,Sex,Age Group,Total Deaths,COVID-19 Deaths
+05/20/2020,United States,5,02/01/2020,Female,Under 1 year,177,0
+05/20/2020,United States,5,02/01/2020,Female,1-4 years,28,0
+05/20/2020,United States,5,02/01/2020,Female,5-14 years,48,0
+05/20/2020,United States,5,02/01/2020,Female,15-24 years,143,0
+05/20/2020,United States,5,02/01/2020,Female,25-34 years,326,0
+05/20/2020,United States,5,02/01/2020,Female,35-44 years,587,0
+05/20/2020,United States,5,02/01/2020,Female,45-54 years,1271,0
+05/20/2020,United States,5,02/01/2020,Female,55-64 years,2932,0
+05/20/2020,United States,5,02/01/2020,Female,65-74 years,4857,0
+05/20/2020,United States,5,02/01/2020,Female,75-84 years,6671,0
+05/20/2020,United States,5,02/01/2020,Female,85 years and over,10988,0
+05/20/2020,United States,6,02/08/2020,Female,Under 1 year,191,0
+05/20/2020,United States,6,02/08/2020,Female,1-4 years,34,0
+05/20/2020,United States,6,02/08/2020,Female,5-14 years,42,0
+05/20/2020,United States,6,02/08/2020,Female,15-24 years,162,0
+05/20/2020,United States,6,02/08/2020,Female,25-34 years,356,0
+05/20/2020,United States,6,02/08/2020,Female,35-44 years,569,0
+05/20/2020,United States,6,02/08/2020,Female,45-54 years,1250,0
+05/20/2020,United States,6,02/08/2020,Female,55-64 years,3033,1
+05/20/2020,United States,6,02/08/2020,Female,65-74 years,4846,0
+05/20/2020,United States,6,02/08/2020,Female,75-84 years,6976,0
+05/20/2020,United States,6,02/08/2020,Female,85 years and over,10778,0
+05/20/2020,United States,7,02/15/2020,Female,Under 1 year,172,0
+05/20/2020,United States,7,02/15/2020,Female,1-4 years,39,0
+05/20/2020,United States,7,02/15/2020,Female,5-14 years,52,0
+05/20/2020,United States,7,02/15/2020,Female,15-24 years,156,0
+05/20/2020,United States,7,02/15/2020,Female,25-34 years,360,0
+05/20/2020,United States,7,02/15/2020,Female,35-44 years,558,0
+05/20/2020,United States,7,02/15/2020,Female,45-54 years,1167,0
+05/20/2020,United States,7,02/15/2020,Female,55-64 years,2995,0
+05/20/2020,United States,7,02/15/2020,Female,65-74 years,4913,0
+05/20/2020,United States,7,02/15/2020,Female,75-84 years,6790,0
+05/20/2020,United States,7,02/15/2020,Female,85 years and over,10787,0
+05/20/2020,United States,8,02/22/2020,Female,Under 1 year,147,0
+05/20/2020,United States,8,02/22/2020,Female,1-4 years,22,0
+05/20/2020,United States,8,02/22/2020,Female,5-14 years,36,0
+05/20/2020,United States,8,02/22/2020,Female,15-24 years,158,0
+05/20/2020,United States,8,02/22/2020,Female,25-34 years,359,0
+05/20/2020,United States,8,02/22/2020,Female,35-44 years,612,0
+05/20/2020,United States,8,02/22/2020,Female,45-54 years,1265,0
+05/20/2020,United States,8,02/22/2020,Female,55-64 years,2898,0
+05/20/2020,United States,8,02/22/2020,Female,65-74 years,4838,0
+05/20/2020,United States,8,02/22/2020,Female,75-84 years,6893,0
+05/20/2020,United States,8,02/22/2020,Female,85 years and over,10764,1
+05/20/2020,United States,9,02/29/2020,Female,Under 1 year,163,0
+05/20/2020,United States,9,02/29/2020,Female,1-4 years,40,0
+05/20/2020,United States,9,02/29/2020,Female,5-14 years,49,0
+05/20/2020,United States,9,02/29/2020,Female,15-24 years,149,0
+05/20/2020,United States,9,02/29/2020,Female,25-34 years,366,0
+05/20/2020,United States,9,02/29/2020,Female,35-44 years,570,0
+05/20/2020,United States,9,02/29/2020,Female,45-54 years,1215,0
+05/20/2020,United States,9,02/29/2020,Female,55-64 years,2910,0
+05/20/2020,United States,9,02/29/2020,Female,65-74 years,4879,1
+05/20/2020,United States,9,02/29/2020,Female,75-84 years,6850,0
+05/20/2020,United States,9,02/29/2020,Female,85 years and over,10847,1
+05/20/2020,United States,10,03/07/2020,Female,Under 1 year,154,0
+05/20/2020,United States,10,03/07/2020,Female,1-4 years,24,0
+05/20/2020,United States,10,03/07/2020,Female,5-14 years,36,0
+05/20/2020,United States,10,03/07/2020,Female,15-24 years,128,0
+05/20/2020,United States,10,03/07/2020,Female,25-34 years,387,0
+05/20/2020,United States,10,03/07/2020,Female,35-44 years,614,0
+05/20/2020,United States,10,03/07/2020,Female,45-54 years,1222,0
+05/20/2020,United States,10,03/07/2020,Female,55-64 years,2890,0
+05/20/2020,United States,10,03/07/2020,Female,65-74 years,4785,3
+05/20/2020,United States,10,03/07/2020,Female,75-84 years,6760,4
+05/20/2020,United States,10,03/07/2020,Female,85 years and over,10550,8
+05/20/2020,United States,11,03/14/2020,Female,Under 1 year,133,0
+05/20/2020,United States,11,03/14/2020,Female,1-4 years,20,0
+05/20/2020,United States,11,03/14/2020,Female,5-14 years,41,0
+05/20/2020,United States,11,03/14/2020,Female,15-24 years,145,0
+05/20/2020,United States,11,03/14/2020,Female,25-34 years,344,0
+05/20/2020,United States,11,03/14/2020,Female,35-44 years,574,0
+05/20/2020,United States,11,03/14/2020,Female,45-54 years,1149,1
+05/20/2020,United States,11,03/14/2020,Female,55-64 years,2909,2
+05/20/2020,United States,11,03/14/2020,Female,65-74 years,4780,8
+05/20/2020,United States,11,03/14/2020,Female,75-84 years,6585,8
+05/20/2020,United States,11,03/14/2020,Female,85 years and over,10429,10
+05/20/2020,United States,12,03/21/2020,Female,Under 1 year,137,0
+05/20/2020,United States,12,03/21/2020,Female,1-4 years,35,0
+05/20/2020,United States,12,03/21/2020,Female,5-14 years,38,0
+05/20/2020,United States,12,03/21/2020,Female,15-24 years,154,1
+05/20/2020,United States,12,03/21/2020,Female,25-34 years,362,1
+05/20/2020,United States,12,03/21/2020,Female,35-44 years,608,8
+05/20/2020,United States,12,03/21/2020,Female,45-54 years,1171,7
+05/20/2020,United States,12,03/21/2020,Female,55-64 years,2881,10
+05/20/2020,United States,12,03/21/2020,Female,65-74 years,4841,49
+05/20/2020,United States,12,03/21/2020,Female,75-84 years,6767,61
+05/20/2020,United States,12,03/21/2020,Female,85 years and over,10307,59
+05/20/2020,United States,13,03/28/2020,Female,Under 1 year,149,0
+05/20/2020,United States,13,03/28/2020,Female,1-4 years,25,0
+05/20/2020,United States,13,03/28/2020,Female,5-14 years,28,0
+05/20/2020,United States,13,03/28/2020,Female,15-24 years,125,1
+05/20/2020,United States,13,03/28/2020,Female,25-34 years,382,14
+05/20/2020,United States,13,03/28/2020,Female,35-44 years,591,31
+05/20/2020,United States,13,03/28/2020,Female,45-54 years,1200,64
+05/20/2020,United States,13,03/28/2020,Female,55-64 years,2979,140
+05/20/2020,United States,13,03/28/2020,Female,65-74 years,4831,228
+05/20/2020,United States,13,03/28/2020,Female,75-84 years,7060,314
+05/20/2020,United States,13,03/28/2020,Female,85 years and over,11342,349
+05/20/2020,United States,14,04/04/2020,Female,Under 1 year,124,0
+05/20/2020,United States,14,04/04/2020,Female,1-4 years,28,0
+05/20/2020,United States,14,04/04/2020,Female,5-14 years,34,0
+05/20/2020,United States,14,04/04/2020,Female,15-24 years,148,4
+05/20/2020,United States,14,04/04/2020,Female,25-34 years,406,32
+05/20/2020,United States,14,04/04/2020,Female,35-44 years,636,59
+05/20/2020,United States,14,04/04/2020,Female,45-54 years,1307,152
+05/20/2020,United States,14,04/04/2020,Female,55-64 years,3326,429
+05/20/2020,United States,14,04/04/2020,Female,65-74 years,5548,791
+05/20/2020,United States,14,04/04/2020,Female,75-84 years,7928,978
+05/20/2020,United States,14,04/04/2020,Female,85 years and over,12548,1154
+05/20/2020,United States,15,04/11/2020,Female,Under 1 year,132,0
+05/20/2020,United States,15,04/11/2020,Female,1-4 years,27,1
+05/20/2020,United States,15,04/11/2020,Female,5-14 years,36,0
+05/20/2020,United States,15,04/11/2020,Female,15-24 years,161,6
+05/20/2020,United States,15,04/11/2020,Female,25-34 years,342,32
+05/20/2020,United States,15,04/11/2020,Female,35-44 years,650,67
+05/20/2020,United States,15,04/11/2020,Female,45-54 years,1395,216
+05/20/2020,United States,15,04/11/2020,Female,55-64 years,3514,639
+05/20/2020,United States,15,04/11/2020,Female,65-74 years,6058,1230
+05/20/2020,United States,15,04/11/2020,Female,75-84 years,8617,1697
+05/20/2020,United States,15,04/11/2020,Female,85 years and over,13941,2399
+05/20/2020,United States,16,04/18/2020,Female,Under 1 year,113,0
+05/20/2020,United States,16,04/18/2020,Female,1-4 years,16,0
+05/20/2020,United States,16,04/18/2020,Female,5-14 years,28,0
+05/20/2020,United States,16,04/18/2020,Female,15-24 years,139,2
+05/20/2020,United States,16,04/18/2020,Female,25-34 years,349,24
+05/20/2020,United States,16,04/18/2020,Female,35-44 years,585,68
+05/20/2020,United States,16,04/18/2020,Female,45-54 years,1307,203
+05/20/2020,United States,16,04/18/2020,Female,55-64 years,3194,574
+05/20/2020,United States,16,04/18/2020,Female,65-74 years,5435,1060
+05/20/2020,United States,16,04/18/2020,Female,75-84 years,8224,1836
+05/20/2020,United States,16,04/18/2020,Female,85 years and over,14003,2962
+05/20/2020,United States,17,04/25/2020,Female,Under 1 year,97,1
+05/20/2020,United States,17,04/25/2020,Female,1-4 years,20,0
+05/20/2020,United States,17,04/25/2020,Female,5-14 years,33,1
+05/20/2020,United States,17,04/25/2020,Female,15-24 years,135,6
+05/20/2020,United States,17,04/25/2020,Female,25-34 years,345,21
+05/20/2020,United States,17,04/25/2020,Female,35-44 years,518,38
+05/20/2020,United States,17,04/25/2020,Female,45-54 years,1231,174
+05/20/2020,United States,17,04/25/2020,Female,55-64 years,2945,439
+05/20/2020,United States,17,04/25/2020,Female,65-74 years,4919,848
+05/20/2020,United States,17,04/25/2020,Female,75-84 years,7479,1465
+05/20/2020,United States,17,04/25/2020,Female,85 years and over,13011,2598
+05/20/2020,United States,18,05/02/2020,Female,Under 1 year,97,0
+05/20/2020,United States,18,05/02/2020,Female,1-4 years,23,0
+05/20/2020,United States,18,05/02/2020,Female,5-14 years,19,1
+05/20/2020,United States,18,05/02/2020,Female,15-24 years,103,3
+05/20/2020,United States,18,05/02/2020,Female,25-34 years,314,14
+05/20/2020,United States,18,05/02/2020,Female,35-44 years,519,34
+05/20/2020,United States,18,05/02/2020,Female,45-54 years,993,90
+05/20/2020,United States,18,05/02/2020,Female,55-64 years,2445,306
+05/20/2020,United States,18,05/02/2020,Female,65-74 years,4561,640
+05/20/2020,United States,18,05/02/2020,Female,75-84 years,6420,1074
+05/20/2020,United States,18,05/02/2020,Female,85 years and over,11363,2129
+05/20/2020,United States,19,05/09/2020,Female,Under 1 year,65,0
+05/20/2020,United States,19,05/09/2020,Female,1-4 years,11,0
+05/20/2020,United States,19,05/09/2020,Female,5-14 years,14,0
+05/20/2020,United States,19,05/09/2020,Female,15-24 years,92,1
+05/20/2020,United States,19,05/09/2020,Female,25-34 years,252,6
+05/20/2020,United States,19,05/09/2020,Female,35-44 years,362,17
+05/20/2020,United States,19,05/09/2020,Female,45-54 years,775,47
+05/20/2020,United States,19,05/09/2020,Female,55-64 years,1957,213
+05/20/2020,United States,19,05/09/2020,Female,65-74 years,3370,402
+05/20/2020,United States,19,05/09/2020,Female,75-84 years,5049,675
+05/20/2020,United States,19,05/09/2020,Female,85 years and over,8727,1410
+05/20/2020,United States,20,05/16/2020,Female,Under 1 year,27,0
+05/20/2020,United States,20,05/16/2020,Female,1-4 years,0,0
+05/20/2020,United States,20,05/16/2020,Female,5-14 years,9,0
+05/20/2020,United States,20,05/16/2020,Female,15-24 years,28,1
+05/20/2020,United States,20,05/16/2020,Female,25-34 years,83,1
+05/20/2020,United States,20,05/16/2020,Female,35-44 years,123,2
+05/20/2020,United States,20,05/16/2020,Female,45-54 years,309,14
+05/20/2020,United States,20,05/16/2020,Female,55-64 years,732,37
+05/20/2020,United States,20,05/16/2020,Female,65-74 years,1379,97
+05/20/2020,United States,20,05/16/2020,Female,75-84 years,2107,151
+05/20/2020,United States,20,05/16/2020,Female,85 years and over,3906,330
+05/20/2020,United States,5,02/01/2020,Male,Under 1 year,185,0
+05/20/2020,United States,5,02/01/2020,Male,1-4 years,35,0
+05/20/2020,United States,5,02/01/2020,Male,5-14 years,62,0
+05/20/2020,United States,5,02/01/2020,Male,15-24 years,420,0
+05/20/2020,United States,5,02/01/2020,Male,25-34 years,785,0
+05/20/2020,United States,5,02/01/2020,Male,35-44 years,1052,0
+05/20/2020,United States,5,02/01/2020,Male,45-54 years,1994,0
+05/20/2020,United States,5,02/01/2020,Male,55-64 years,4390,0
+05/20/2020,United States,5,02/01/2020,Male,65-74 years,6593,0
+05/20/2020,United States,5,02/01/2020,Male,75-84 years,7197,0
+05/20/2020,United States,5,02/01/2020,Male,85 years and over,6830,0
+05/20/2020,United States,6,02/08/2020,Male,Under 1 year,220,0
+05/20/2020,United States,6,02/08/2020,Male,1-4 years,47,0
+05/20/2020,United States,6,02/08/2020,Male,5-14 years,55,0
+05/20/2020,United States,6,02/08/2020,Male,15-24 years,434,0
+05/20/2020,United States,6,02/08/2020,Male,25-34 years,794,0
+05/20/2020,United States,6,02/08/2020,Male,35-44 years,1065,0
+05/20/2020,United States,6,02/08/2020,Male,45-54 years,1911,0
+05/20/2020,United States,6,02/08/2020,Male,55-64 years,4635,0
+05/20/2020,United States,6,02/08/2020,Male,65-74 years,6537,0
+05/20/2020,United States,6,02/08/2020,Male,75-84 years,7210,0
+05/20/2020,United States,6,02/08/2020,Male,85 years and over,7060,0
+05/20/2020,United States,7,02/15/2020,Male,Under 1 year,176,0
+05/20/2020,United States,7,02/15/2020,Male,1-4 years,37,0
+05/20/2020,United States,7,02/15/2020,Male,5-14 years,72,0
+05/20/2020,United States,7,02/15/2020,Male,15-24 years,399,0
+05/20/2020,United States,7,02/15/2020,Male,25-34 years,794,0
+05/20/2020,United States,7,02/15/2020,Male,35-44 years,1058,0
+05/20/2020,United States,7,02/15/2020,Male,45-54 years,1818,0
+05/20/2020,United States,7,02/15/2020,Male,55-64 years,4616,0
+05/20/2020,United States,7,02/15/2020,Male,65-74 years,6484,0
+05/20/2020,United States,7,02/15/2020,Male,75-84 years,7293,0
+05/20/2020,United States,7,02/15/2020,Male,85 years and over,6794,0
+05/20/2020,United States,8,02/22/2020,Male,Under 1 year,198,0
+05/20/2020,United States,8,02/22/2020,Male,1-4 years,39,0
+05/20/2020,United States,8,02/22/2020,Male,5-14 years,58,0
+05/20/2020,United States,8,02/22/2020,Male,15-24 years,377,0
+05/20/2020,United States,8,02/22/2020,Male,25-34 years,824,0
+05/20/2020,United States,8,02/22/2020,Male,35-44 years,1041,0
+05/20/2020,United States,8,02/22/2020,Male,45-54 years,1938,0
+05/20/2020,United States,8,02/22/2020,Male,55-64 years,4495,0
+05/20/2020,United States,8,02/22/2020,Male,65-74 years,6489,1
+05/20/2020,United States,8,02/22/2020,Male,75-84 years,7154,0
+05/20/2020,United States,8,02/22/2020,Male,85 years and over,6978,0
+05/20/2020,United States,9,02/29/2020,Male,Under 1 year,217,0
+05/20/2020,United States,9,02/29/2020,Male,1-4 years,35,0
+05/20/2020,United States,9,02/29/2020,Male,5-14 years,63,0
+05/20/2020,United States,9,02/29/2020,Male,15-24 years,396,0
+05/20/2020,United States,9,02/29/2020,Male,25-34 years,865,0
+05/20/2020,United States,9,02/29/2020,Male,35-44 years,1031,0
+05/20/2020,United States,9,02/29/2020,Male,45-54 years,1977,1
+05/20/2020,United States,9,02/29/2020,Male,55-64 years,4594,1
+05/20/2020,United States,9,02/29/2020,Male,65-74 years,6570,0
+05/20/2020,United States,9,02/29/2020,Male,75-84 years,7302,1
+05/20/2020,United States,9,02/29/2020,Male,85 years and over,6803,1
+05/20/2020,United States,10,03/07/2020,Male,Under 1 year,178,0
+05/20/2020,United States,10,03/07/2020,Male,1-4 years,43,0
+05/20/2020,United States,10,03/07/2020,Male,5-14 years,58,0
+05/20/2020,United States,10,03/07/2020,Male,15-24 years,428,0
+05/20/2020,United States,10,03/07/2020,Male,25-34 years,790,0
+05/20/2020,United States,10,03/07/2020,Male,35-44 years,1093,1
+05/20/2020,United States,10,03/07/2020,Male,45-54 years,1889,0
+05/20/2020,United States,10,03/07/2020,Male,55-64 years,4649,4
+05/20/2020,United States,10,03/07/2020,Male,65-74 years,6614,7
+05/20/2020,United States,10,03/07/2020,Male,75-84 years,7306,2
+05/20/2020,United States,10,03/07/2020,Male,85 years and over,6912,3
+05/20/2020,United States,11,03/14/2020,Male,Under 1 year,181,0
+05/20/2020,United States,11,03/14/2020,Male,1-4 years,41,0
+05/20/2020,United States,11,03/14/2020,Male,5-14 years,64,0
+05/20/2020,United States,11,03/14/2020,Male,15-24 years,431,0
+05/20/2020,United States,11,03/14/2020,Male,25-34 years,786,0
+05/20/2020,United States,11,03/14/2020,Male,35-44 years,1051,0
+05/20/2020,United States,11,03/14/2020,Male,45-54 years,1886,0
+05/20/2020,United States,11,03/14/2020,Male,55-64 years,4315,3
+05/20/2020,United States,11,03/14/2020,Male,65-74 years,6505,7
+05/20/2020,United States,11,03/14/2020,Male,75-84 years,7098,7
+05/20/2020,United States,11,03/14/2020,Male,85 years and over,6730,5
+05/20/2020,United States,12,03/21/2020,Male,Under 1 year,204,0
+05/20/2020,United States,12,03/21/2020,Male,1-4 years,41,1
+05/20/2020,United States,12,03/21/2020,Male,5-14 years,46,0
+05/20/2020,United States,12,03/21/2020,Male,15-24 years,403,0
+05/20/2020,United States,12,03/21/2020,Male,25-34 years,774,4
+05/20/2020,United States,12,03/21/2020,Male,35-44 years,1082,7
+05/20/2020,United States,12,03/21/2020,Male,45-54 years,1852,29
+05/20/2020,United States,12,03/21/2020,Male,55-64 years,4428,47
+05/20/2020,United States,12,03/21/2020,Male,65-74 years,6445,83
+05/20/2020,United States,12,03/21/2020,Male,75-84 years,7244,80
+05/20/2020,United States,12,03/21/2020,Male,85 years and over,6600,74
+05/20/2020,United States,13,03/28/2020,Male,Under 1 year,172,0
+05/20/2020,United States,13,03/28/2020,Male,1-4 years,37,0
+05/20/2020,United States,13,03/28/2020,Male,5-14 years,37,1
+05/20/2020,United States,13,03/28/2020,Male,15-24 years,423,3
+05/20/2020,United States,13,03/28/2020,Male,25-34 years,801,21
+05/20/2020,United States,13,03/28/2020,Male,35-44 years,1120,68
+05/20/2020,United States,13,03/28/2020,Male,45-54 years,2022,155
+05/20/2020,United States,13,03/28/2020,Male,55-64 years,4662,287
+05/20/2020,United States,13,03/28/2020,Male,65-74 years,6800,427
+05/20/2020,United States,13,03/28/2020,Male,75-84 years,7838,469
+05/20/2020,United States,13,03/28/2020,Male,85 years and over,7143,346
+05/20/2020,United States,14,04/04/2020,Male,Under 1 year,165,1
+05/20/2020,United States,14,04/04/2020,Male,1-4 years,22,0
+05/20/2020,United States,14,04/04/2020,Male,5-14 years,49,0
+05/20/2020,United States,14,04/04/2020,Male,15-24 years,401,7
+05/20/2020,United States,14,04/04/2020,Male,25-34 years,862,67
+05/20/2020,United States,14,04/04/2020,Male,35-44 years,1200,161
+05/20/2020,United States,14,04/04/2020,Male,45-54 years,2406,447
+05/20/2020,United States,14,04/04/2020,Male,55-64 years,5529,884
+05/20/2020,United States,14,04/04/2020,Male,65-74 years,7991,1304
+05/20/2020,United States,14,04/04/2020,Male,75-84 years,8883,1462
+05/20/2020,United States,14,04/04/2020,Male,85 years and over,8275,1041
+05/20/2020,United States,15,04/11/2020,Male,Under 1 year,168,0
+05/20/2020,United States,15,04/11/2020,Male,1-4 years,23,0
+05/20/2020,United States,15,04/11/2020,Male,5-14 years,55,2
+05/20/2020,United States,15,04/11/2020,Male,15-24 years,430,15
+05/20/2020,United States,15,04/11/2020,Male,25-34 years,928,64
+05/20/2020,United States,15,04/11/2020,Male,35-44 years,1345,190
+05/20/2020,United States,15,04/11/2020,Male,45-54 years,2465,548
+05/20/2020,United States,15,04/11/2020,Male,55-64 years,5774,1290
+05/20/2020,United States,15,04/11/2020,Male,65-74 years,8636,2018
+05/20/2020,United States,15,04/11/2020,Male,75-84 years,9619,2286
+05/20/2020,United States,15,04/11/2020,Male,85 years and over,9066,1836
+05/20/2020,United States,16,04/18/2020,Male,Under 1 year,141,0
+05/20/2020,United States,16,04/18/2020,Male,1-4 years,29,0
+05/20/2020,United States,16,04/18/2020,Male,5-14 years,42,0
+05/20/2020,United States,16,04/18/2020,Male,15-24 years,377,10
+05/20/2020,United States,16,04/18/2020,Male,25-34 years,859,77
+05/20/2020,United States,16,04/18/2020,Male,35-44 years,1143,167
+05/20/2020,United States,16,04/18/2020,Male,45-54 years,2286,462
+05/20/2020,United States,16,04/18/2020,Male,55-64 years,5275,1123
+05/20/2020,United States,16,04/18/2020,Male,65-74 years,8083,1954
+05/20/2020,United States,16,04/18/2020,Male,75-84 years,9074,2173
+05/20/2020,United States,16,04/18/2020,Male,85 years and over,8798,1998
+05/20/2020,United States,17,04/25/2020,Male,Under 1 year,147,0
+05/20/2020,United States,17,04/25/2020,Male,1-4 years,33,0
+05/20/2020,United States,17,04/25/2020,Male,5-14 years,48,0
+05/20/2020,United States,17,04/25/2020,Male,15-24 years,413,9
+05/20/2020,United States,17,04/25/2020,Male,25-34 years,797,32
+05/20/2020,United States,17,04/25/2020,Male,35-44 years,1115,111
+05/20/2020,United States,17,04/25/2020,Male,45-54 years,1991,339
+05/20/2020,United States,17,04/25/2020,Male,55-64 years,4831,874
+05/20/2020,United States,17,04/25/2020,Male,65-74 years,7069,1419
+05/20/2020,United States,17,04/25/2020,Male,75-84 years,8179,1722
+05/20/2020,United States,17,04/25/2020,Male,85 years and over,7793,1634
+05/20/2020,United States,18,05/02/2020,Male,Under 1 year,100,0
+05/20/2020,United States,18,05/02/2020,Male,1-4 years,21,0
+05/20/2020,United States,18,05/02/2020,Male,5-14 years,40,2
+05/20/2020,United States,18,05/02/2020,Male,15-24 years,358,3
+05/20/2020,United States,18,05/02/2020,Male,25-34 years,735,34
+05/20/2020,United States,18,05/02/2020,Male,35-44 years,960,86
+05/20/2020,United States,18,05/02/2020,Male,45-54 years,1754,229
+05/20/2020,United States,18,05/02/2020,Male,55-64 years,4150,563
+05/20/2020,United States,18,05/02/2020,Male,65-74 years,6169,1065
+05/20/2020,United States,18,05/02/2020,Male,75-84 years,6996,1253
+05/20/2020,United States,18,05/02/2020,Male,85 years and over,6793,1245
+05/20/2020,United States,19,05/09/2020,Male,Under 1 year,85,1
+05/20/2020,United States,19,05/09/2020,Male,1-4 years,19,0
+05/20/2020,United States,19,05/09/2020,Male,5-14 years,34,0
+05/20/2020,United States,19,05/09/2020,Male,15-24 years,282,4
+05/20/2020,United States,19,05/09/2020,Male,25-34 years,522,13
+05/20/2020,United States,19,05/09/2020,Male,35-44 years,738,55
+05/20/2020,United States,19,05/09/2020,Male,45-54 years,1358,129
+05/20/2020,United States,19,05/09/2020,Male,55-64 years,3176,376
+05/20/2020,United States,19,05/09/2020,Male,65-74 years,4697,672
+05/20/2020,United States,19,05/09/2020,Male,75-84 years,5415,752
+05/20/2020,United States,19,05/09/2020,Male,85 years and over,5321,782
+05/20/2020,United States,20,05/16/2020,Male,Under 1 year,30,0
+05/20/2020,United States,20,05/16/2020,Male,1-4 years,5,0
+05/20/2020,United States,20,05/16/2020,Male,5-14 years,9,0
+05/20/2020,United States,20,05/16/2020,Male,15-24 years,66,0
+05/20/2020,United States,20,05/16/2020,Male,25-34 years,197,6
+05/20/2020,United States,20,05/16/2020,Male,35-44 years,266,16
+05/20/2020,United States,20,05/16/2020,Male,45-54 years,532,31
+05/20/2020,United States,20,05/16/2020,Male,55-64 years,1189,70
+05/20/2020,United States,20,05/16/2020,Male,65-74 years,1753,133
+05/20/2020,United States,20,05/16/2020,Male,75-84 years,2266,151
+05/20/2020,United States,20,05/16/2020,Male,85 years and over,2246,167
+05/20/2020,United States,5,02/01/2020,All sex,Under 1 year,362,0
+05/20/2020,United States,5,02/01/2020,All sex,1-4 years,63,0
+05/20/2020,United States,5,02/01/2020,All sex,5-14 years,110,0
+05/20/2020,United States,5,02/01/2020,All sex,15-24 years,563,0
+05/20/2020,United States,5,02/01/2020,All sex,25-34 years,1111,0
+05/20/2020,United States,5,02/01/2020,All sex,35-44 years,1639,0
+05/20/2020,United States,5,02/01/2020,All sex,45-54 years,3265,0
+05/20/2020,United States,5,02/01/2020,All sex,55-64 years,7322,0
+05/20/2020,United States,5,02/01/2020,All sex,65-74 years,11450,0
+05/20/2020,United States,5,02/01/2020,All sex,75-84 years,13868,0
+05/20/2020,United States,5,02/01/2020,All sex,85 years and over,17818,0
+05/20/2020,United States,6,02/08/2020,All sex,Under 1 year,411,0
+05/20/2020,United States,6,02/08/2020,All sex,1-4 years,81,0
+05/20/2020,United States,6,02/08/2020,All sex,5-14 years,97,0
+05/20/2020,United States,6,02/08/2020,All sex,15-24 years,596,0
+05/20/2020,United States,6,02/08/2020,All sex,25-34 years,1150,0
+05/20/2020,United States,6,02/08/2020,All sex,35-44 years,1634,0
+05/20/2020,United States,6,02/08/2020,All sex,45-54 years,3161,0
+05/20/2020,United States,6,02/08/2020,All sex,55-64 years,7668,1
+05/20/2020,United States,6,02/08/2020,All sex,65-74 years,11383,0
+05/20/2020,United States,6,02/08/2020,All sex,75-84 years,14186,0
+05/20/2020,United States,6,02/08/2020,All sex,85 years and over,17838,0
+05/20/2020,United States,7,02/15/2020,All sex,Under 1 year,348,0
+05/20/2020,United States,7,02/15/2020,All sex,1-4 years,76,0
+05/20/2020,United States,7,02/15/2020,All sex,5-14 years,124,0
+05/20/2020,United States,7,02/15/2020,All sex,15-24 years,555,0
+05/20/2020,United States,7,02/15/2020,All sex,25-34 years,1154,0
+05/20/2020,United States,7,02/15/2020,All sex,35-44 years,1616,0
+05/20/2020,United States,7,02/15/2020,All sex,45-54 years,2985,0
+05/20/2020,United States,7,02/15/2020,All sex,55-64 years,7611,0
+05/20/2020,United States,7,02/15/2020,All sex,65-74 years,11397,0
+05/20/2020,United States,7,02/15/2020,All sex,75-84 years,14083,0
+05/20/2020,United States,7,02/15/2020,All sex,85 years and over,17581,0
+05/20/2020,United States,8,02/22/2020,All sex,Under 1 year,345,0
+05/20/2020,United States,8,02/22/2020,All sex,1-4 years,61,0
+05/20/2020,United States,8,02/22/2020,All sex,5-14 years,94,0
+05/20/2020,United States,8,02/22/2020,All sex,15-24 years,535,0
+05/20/2020,United States,8,02/22/2020,All sex,25-34 years,1183,0
+05/20/2020,United States,8,02/22/2020,All sex,35-44 years,1653,0
+05/20/2020,United States,8,02/22/2020,All sex,45-54 years,3203,0
+05/20/2020,United States,8,02/22/2020,All sex,55-64 years,7393,0
+05/20/2020,United States,8,02/22/2020,All sex,65-74 years,11327,1
+05/20/2020,United States,8,02/22/2020,All sex,75-84 years,14047,0
+05/20/2020,United States,8,02/22/2020,All sex,85 years and over,17742,1
+05/20/2020,United States,9,02/29/2020,All sex,Under 1 year,380,0
+05/20/2020,United States,9,02/29/2020,All sex,1-4 years,75,0
+05/20/2020,United States,9,02/29/2020,All sex,5-14 years,112,0
+05/20/2020,United States,9,02/29/2020,All sex,15-24 years,545,0
+05/20/2020,United States,9,02/29/2020,All sex,25-34 years,1231,0
+05/20/2020,United States,9,02/29/2020,All sex,35-44 years,1601,0
+05/20/2020,United States,9,02/29/2020,All sex,45-54 years,3192,1
+05/20/2020,United States,9,02/29/2020,All sex,55-64 years,7504,1
+05/20/2020,United States,9,02/29/2020,All sex,65-74 years,11449,1
+05/20/2020,United States,9,02/29/2020,All sex,75-84 years,14152,1
+05/20/2020,United States,9,02/29/2020,All sex,85 years and over,17650,2
+05/20/2020,United States,10,03/07/2020,All sex,Under 1 year,332,0
+05/20/2020,United States,10,03/07/2020,All sex,1-4 years,67,0
+05/20/2020,United States,10,03/07/2020,All sex,5-14 years,94,0
+05/20/2020,United States,10,03/07/2020,All sex,15-24 years,556,0
+05/20/2020,United States,10,03/07/2020,All sex,25-34 years,1177,0
+05/20/2020,United States,10,03/07/2020,All sex,35-44 years,1707,1
+05/20/2020,United States,10,03/07/2020,All sex,45-54 years,3111,0
+05/20/2020,United States,10,03/07/2020,All sex,55-64 years,7539,4
+05/20/2020,United States,10,03/07/2020,All sex,65-74 years,11399,10
+05/20/2020,United States,10,03/07/2020,All sex,75-84 years,14066,6
+05/20/2020,United States,10,03/07/2020,All sex,85 years and over,17462,11
+05/20/2020,United States,11,03/14/2020,All sex,Under 1 year,314,0
+05/20/2020,United States,11,03/14/2020,All sex,1-4 years,61,0
+05/20/2020,United States,11,03/14/2020,All sex,5-14 years,105,0
+05/20/2020,United States,11,03/14/2020,All sex,15-24 years,576,0
+05/20/2020,United States,11,03/14/2020,All sex,25-34 years,1130,0
+05/20/2020,United States,11,03/14/2020,All sex,35-44 years,1625,0
+05/20/2020,United States,11,03/14/2020,All sex,45-54 years,3035,1
+05/20/2020,United States,11,03/14/2020,All sex,55-64 years,7224,5
+05/20/2020,United States,11,03/14/2020,All sex,65-74 years,11285,15
+05/20/2020,United States,11,03/14/2020,All sex,75-84 years,13683,15
+05/20/2020,United States,11,03/14/2020,All sex,85 years and over,17159,15
+05/20/2020,United States,12,03/21/2020,All sex,Under 1 year,341,0
+05/20/2020,United States,12,03/21/2020,All sex,1-4 years,76,1
+05/20/2020,United States,12,03/21/2020,All sex,5-14 years,84,0
+05/20/2020,United States,12,03/21/2020,All sex,15-24 years,557,1
+05/20/2020,United States,12,03/21/2020,All sex,25-34 years,1136,5
+05/20/2020,United States,12,03/21/2020,All sex,35-44 years,1690,15
+05/20/2020,United States,12,03/21/2020,All sex,45-54 years,3023,36
+05/20/2020,United States,12,03/21/2020,All sex,55-64 years,7309,57
+05/20/2020,United States,12,03/21/2020,All sex,65-74 years,11286,132
+05/20/2020,United States,12,03/21/2020,All sex,75-84 years,14011,141
+05/20/2020,United States,12,03/21/2020,All sex,85 years and over,16907,133
+05/20/2020,United States,13,03/28/2020,All sex,Under 1 year,321,0
+05/20/2020,United States,13,03/28/2020,All sex,1-4 years,62,0
+05/20/2020,United States,13,03/28/2020,All sex,5-14 years,65,1
+05/20/2020,United States,13,03/28/2020,All sex,15-24 years,548,4
+05/20/2020,United States,13,03/28/2020,All sex,25-34 years,1183,35
+05/20/2020,United States,13,03/28/2020,All sex,35-44 years,1711,99
+05/20/2020,United States,13,03/28/2020,All sex,45-54 years,3222,219
+05/20/2020,United States,13,03/28/2020,All sex,55-64 years,7641,427
+05/20/2020,United States,13,03/28/2020,All sex,65-74 years,11631,655
+05/20/2020,United States,13,03/28/2020,All sex,75-84 years,14898,783
+05/20/2020,United States,13,03/28/2020,All sex,85 years and over,18485,695
+05/20/2020,United States,14,04/04/2020,All sex,Under 1 year,289,1
+05/20/2020,United States,14,04/04/2020,All sex,1-4 years,50,0
+05/20/2020,United States,14,04/04/2020,All sex,5-14 years,83,0
+05/20/2020,United States,14,04/04/2020,All sex,15-24 years,549,11
+05/20/2020,United States,14,04/04/2020,All sex,25-34 years,1268,99
+05/20/2020,United States,14,04/04/2020,All sex,35-44 years,1836,220
+05/20/2020,United States,14,04/04/2020,All sex,45-54 years,3713,599
+05/20/2020,United States,14,04/04/2020,All sex,55-64 years,8855,1313
+05/20/2020,United States,14,04/04/2020,All sex,65-74 years,13539,2095
+05/20/2020,United States,14,04/04/2020,All sex,75-84 years,16811,2440
+05/20/2020,United States,14,04/04/2020,All sex,85 years and over,20823,2195
+05/20/2020,United States,15,04/11/2020,All sex,Under 1 year,300,0
+05/20/2020,United States,15,04/11/2020,All sex,1-4 years,50,1
+05/20/2020,United States,15,04/11/2020,All sex,5-14 years,91,2
+05/20/2020,United States,15,04/11/2020,All sex,15-24 years,591,21
+05/20/2020,United States,15,04/11/2020,All sex,25-34 years,1270,96
+05/20/2020,United States,15,04/11/2020,All sex,35-44 years,1995,257
+05/20/2020,United States,15,04/11/2020,All sex,45-54 years,3860,764
+05/20/2020,United States,15,04/11/2020,All sex,55-64 years,9288,1929
+05/20/2020,United States,15,04/11/2020,All sex,65-74 years,14694,3248
+05/20/2020,United States,15,04/11/2020,All sex,75-84 years,18236,3983
+05/20/2020,United States,15,04/11/2020,All sex,85 years and over,23007,4235
+05/20/2020,United States,16,04/18/2020,All sex,Under 1 year,254,0
+05/20/2020,United States,16,04/18/2020,All sex,1-4 years,45,0
+05/20/2020,United States,16,04/18/2020,All sex,5-14 years,70,0
+05/20/2020,United States,16,04/18/2020,All sex,15-24 years,516,12
+05/20/2020,United States,16,04/18/2020,All sex,25-34 years,1208,101
+05/20/2020,United States,16,04/18/2020,All sex,35-44 years,1728,235
+05/20/2020,United States,16,04/18/2020,All sex,45-54 years,3593,665
+05/20/2020,United States,16,04/18/2020,All sex,55-64 years,8469,1697
+05/20/2020,United States,16,04/18/2020,All sex,65-74 years,13518,3014
+05/20/2020,United States,16,04/18/2020,All sex,75-84 years,17298,4009
+05/20/2020,United States,16,04/18/2020,All sex,85 years and over,22801,4960
+05/20/2020,United States,17,04/25/2020,All sex,Under 1 year,244,1
+05/20/2020,United States,17,04/25/2020,All sex,1-4 years,53,0
+05/20/2020,United States,17,04/25/2020,All sex,5-14 years,81,1
+05/20/2020,United States,17,04/25/2020,All sex,15-24 years,548,15
+05/20/2020,United States,17,04/25/2020,All sex,25-34 years,1142,53
+05/20/2020,United States,17,04/25/2020,All sex,35-44 years,1633,149
+05/20/2020,United States,17,04/25/2020,All sex,45-54 years,3222,513
+05/20/2020,United States,17,04/25/2020,All sex,55-64 years,7776,1313
+05/20/2020,United States,17,04/25/2020,All sex,65-74 years,11988,2267
+05/20/2020,United States,17,04/25/2020,All sex,75-84 years,15658,3187
+05/20/2020,United States,17,04/25/2020,All sex,85 years and over,20804,4232
+05/20/2020,United States,18,05/02/2020,All sex,Under 1 year,197,0
+05/20/2020,United States,18,05/02/2020,All sex,1-4 years,44,0
+05/20/2020,United States,18,05/02/2020,All sex,5-14 years,59,3
+05/20/2020,United States,18,05/02/2020,All sex,15-24 years,461,6
+05/20/2020,United States,18,05/02/2020,All sex,25-34 years,1049,48
+05/20/2020,United States,18,05/02/2020,All sex,35-44 years,1479,120
+05/20/2020,United States,18,05/02/2020,All sex,45-54 years,2747,319
+05/20/2020,United States,18,05/02/2020,All sex,55-64 years,6595,869
+05/20/2020,United States,18,05/02/2020,All sex,65-74 years,10730,1705
+05/20/2020,United States,18,05/02/2020,All sex,75-84 years,13416,2327
+05/20/2020,United States,18,05/02/2020,All sex,85 years and over,18156,3374
+05/20/2020,United States,19,05/09/2020,All sex,Under 1 year,150,1
+05/20/2020,United States,19,05/09/2020,All sex,1-4 years,30,0
+05/20/2020,United States,19,05/09/2020,All sex,5-14 years,48,0
+05/20/2020,United States,19,05/09/2020,All sex,15-24 years,374,5
+05/20/2020,United States,19,05/09/2020,All sex,25-34 years,774,19
+05/20/2020,United States,19,05/09/2020,All sex,35-44 years,1100,72
+05/20/2020,United States,19,05/09/2020,All sex,45-54 years,2133,176
+05/20/2020,United States,19,05/09/2020,All sex,55-64 years,5133,589
+05/20/2020,United States,19,05/09/2020,All sex,65-74 years,8067,1074
+05/20/2020,United States,19,05/09/2020,All sex,75-84 years,10464,1427
+05/20/2020,United States,19,05/09/2020,All sex,85 years and over,14048,2192
+05/20/2020,United States,20,05/16/2020,All sex,Under 1 year,57,0
+05/20/2020,United States,20,05/16/2020,All sex,1-4 years,5,0
+05/20/2020,United States,20,05/16/2020,All sex,5-14 years,18,0
+05/20/2020,United States,20,05/16/2020,All sex,15-24 years,94,1
+05/20/2020,United States,20,05/16/2020,All sex,25-34 years,280,7
+05/20/2020,United States,20,05/16/2020,All sex,35-44 years,389,18
+05/20/2020,United States,20,05/16/2020,All sex,45-54 years,841,45
+05/20/2020,United States,20,05/16/2020,All sex,55-64 years,1921,107
+05/20/2020,United States,20,05/16/2020,All sex,65-74 years,3132,230
+05/20/2020,United States,20,05/16/2020,All sex,75-84 years,4373,302
+05/20/2020,United States,20,05/16/2020,All sex,85 years and over,6152,497
