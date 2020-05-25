@@ -50,4 +50,4 @@ all_rows %>%
    geom_bar(stat = "identity", position="dodge") +
    scale_y_continuous(labels = scales::percent) +
    theme_minimal() +
-   labs(caption = "Source: Centers for Disease Control, New York Times reporting\nhttps://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-W/vsak-wrfu\nhttps://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html", y = "% of deaths attributed to COVID-19")
+   labs(caption = "Source: Centers for Disease Control, New York Times reporting\nhttps://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-W/vsak-wrfu\nhttps://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html", y = "Share of deaths attributed to COVID-19")
